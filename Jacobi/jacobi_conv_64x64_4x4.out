@@ -1,0 +1,4 @@
+--------------------------------------------------------------------------
+mpirun noticed that process rank 2 with PID 16996 on node clone9 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+7 total processes killed (some possibly by mpirun during cleanup)

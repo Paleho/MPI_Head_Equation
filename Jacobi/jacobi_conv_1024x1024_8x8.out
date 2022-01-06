@@ -1,0 +1,4 @@
+--------------------------------------------------------------------------
+mpirun noticed that process rank 8 with PID 19183 on node clone1 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+53 total processes killed (some possibly by mpirun during cleanup)
